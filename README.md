@@ -39,3 +39,5 @@ The word cloud chart shows the most frequent words in corpus.
 The second chart shows the top 20 most frequent terms.
 
 
+#### Please open 'AviationAccidentCauseCodes.R' to view R Code.
+#### Please open 'AviationAccidentCauseCodes.pdf' to view presentation.
